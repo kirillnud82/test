@@ -1,0 +1,12 @@
+{
+  "id": "vasia",
+  "password": "1111",
+  "groups": [
+    "sysadmin"
+  ],
+  "shell": "/bin/bash",
+  "htpasswd": "$apr1$cYjT.eC9$7owbf.HaGx2IMew/ug6aQ1",
+  "nagios": {
+    "email": "wallanag@gmail.com"
+  }
+}
